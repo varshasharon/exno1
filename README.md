@@ -28,6 +28,17 @@ df
 ```
 ![image](https://github.com/varshasharon/exno1/assets/98278161/792962ae-74e2-467f-b239-66d6a3b1fad6)
 
+```
+df.head(10)
+```
+![image](https://github.com/varshasharon/exno1/assets/98278161/459e1284-94c5-427b-aa17-10f452c34bd9)
+
+```
+df.tail(10)
+```
+![image](https://github.com/varshasharon/exno1/assets/98278161/f1921df1-c8a4-4aca-b547-dd0c8aae9ab6)
+
+
 
 # Result
           <<include your Result here>>
